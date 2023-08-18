@@ -30,6 +30,11 @@
       "type": "component",
       "repeatable": false,
       "component": "home.testimonial"
+    },
+    "Services": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.services"
     }
   }
 }

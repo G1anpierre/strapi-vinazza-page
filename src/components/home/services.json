@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_home_services",
+  "info": {
+    "displayName": "Services",
+    "icon": "grid"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "ServiceCard": {
+      "displayName": "ServiceCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "home.service-card"
+    }
+  }
+}
