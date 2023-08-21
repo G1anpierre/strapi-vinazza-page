@@ -35,6 +35,16 @@
       "type": "component",
       "repeatable": false,
       "component": "home.services"
+    },
+    "contactCard": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.contact-card"
+    },
+    "footer": {
+      "type": "component",
+      "repeatable": false,
+      "component": "home.footer"
     }
   }
 }

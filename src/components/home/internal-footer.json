@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_internal_footers",
+  "info": {
+    "displayName": "internalFooter",
+    "icon": "earth"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link"
+    }
+  }
+}
