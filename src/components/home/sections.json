@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_sections",
+  "info": {
+    "displayName": "sections",
+    "icon": "doctor"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "section": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link"
+    }
+  }
+}
